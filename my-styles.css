@@ -120,7 +120,13 @@ button {
 	cursor: pointer;
 	letter-spacing: 1em;
 	text-align: center;
-	padding: auto;
+	padding: 10px;
+	text-transform: uppercase;
+}
+
+button {
+	padding: 0;
+	white-space: 
 }
 
 .strike {
