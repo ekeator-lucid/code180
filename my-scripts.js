@@ -26,6 +26,11 @@ function printItem(item) {
 	document.getElementById("myDiv").appendChild(p)
 }
 
+//making changes for GitHub Example
+x = 3
+y = 10
+slope = y/x
+
 //loop and print list
 for (i = 0; i < myList.length; i++){
 	printItem(myList[i])
